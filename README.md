@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @suleman37
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a passionate React/Next.js Frontend Developer dedicated to building seamless and intuitive user experiences. With a strong focus on performance and scalability, I specialize in crafting responsive and accessible web applications that bring ideas to life.
 
-<!---
-suleman37/suleman37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Expertise
+✔️ React.js
+✔️ Next.js
+✔️ Tailwind CSS & Styled Components
+✔️ JavaScript & TypeScript
+✔️ Frontend Optimization and Performance
+
+📫 Get in touch
+LinkedIn: linkedin.com/in/muhammad-suleman-shakeel-b87a69299
+Email: sulemanshakeel37@gmail.com
+
+⚡ Fun fact
+When I'm not coding, you’ll find me running or diving into the latest tech trends to expand my knowledge.
+
+Feel free to connect for collaborations or just a friendly chat! 😄
+
