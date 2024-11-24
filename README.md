@@ -1,18 +1,17 @@
-I'm a passionate React/Next.js Frontend Developer dedicated to building seamless and intuitive user experiences. With a strong focus on performance and scalability, I specialize in crafting responsive and accessible web applications that bring ideas to life.
+Hi there! 👋  
+I'm a **React/Next.js Frontend Developer** passionate about crafting seamless and intuitive user experiences. With a strong emphasis on **performance, scalability**, and **accessibility**, I specialize in creating responsive web applications that turn ideas into reality.  
 
-🛠️ Expertise
-✔️ React.js
-✔️ Next.js
-✔️ Tailwind CSS & Styled Components
-✔️ JavaScript & TypeScript
-✔️ Frontend Optimization and Performance
+🛠️ Skills & Expertise  
+- **React.js** & **Next.js**  
+- **Tailwind CSS**, **Styled Components**, & modern CSS frameworks  
+- **JavaScript** & **TypeScript**  
+- Frontend Optimization & Performance  
 
-📫 Get in touch
-LinkedIn: linkedin.com/in/muhammad-suleman-shakeel-b87a69299
-Email: sulemanshakeel37@gmail.com
+📫 Let’s Connect  
+- **LinkedIn**: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
+- **Email**: sulemanshakeel37@gmail.com  
 
-⚡ Fun fact
-When I'm not coding, you’ll find me running or diving into the latest tech trends to expand my knowledge.
+⚡ Fun Fact  
+When I'm not coding, you'll find me running, exploring the latest tech trends, or brainstorming creative solutions to challenging problems.  
 
-Feel free to connect for collaborations or just a friendly chat! 😄
-
+Feel free to reach out for **collaborations**, **networking**, or even a casual chat about **frontend development**. 🚀
