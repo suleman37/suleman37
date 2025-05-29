@@ -4,7 +4,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 
 🛠️ Skills & Expertise
 - **Frontend:** React.js, Next.js, Tailwind CSS, Material UI, Styled Components  
-- **Backend:** Node.js, Express.js, RESTful APIs  
+- **Backend:** Node.js, Express.js, Golang , RESTful APIs  
 - **Database:** MongoDB, Mongoose  
 - **Other Tools:** Redux, Axios, TypeScript, Webpack, Git & GitHub  
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability  
