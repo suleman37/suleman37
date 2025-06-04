@@ -14,8 +14,8 @@ LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.
 Email: sulemanshakeel37@gmail.com  
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suleman37&show_icons=true&count_private=true&cache_seconds=1800&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suleman37&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suleman-Hunter&show_icons=true&count_private=true&cache_seconds=1800&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman-Hunter&layout=compact&theme=radical)
 
 ⚡ Fun Fact  
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming creative solutions, or running to stay energized and focused.  
