@@ -3,7 +3,7 @@ Hi there! **I** **am** **Suleman_Shakeel**👋
 I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-friendly web applications. With expertise in **MongoDB, Express.js, React.js, and Node.js**, I specialize in creating end-to-end solutions that bring ideas to life while focusing on performance, scalability, and seamless user experiences.
 
 🛠️ Skills & Expertise
-- **Frontend:** React.js, Next.js,TypeScript, Tailwind CSS, Material UI, Styled Components  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Material UI, Styled Components  
 - **Backend:** Node.js, Express.js, Golang, RESTful APIs  
 - **Database:** MongoDB, Mongoose  
 - **Other Tools:** Redux, Axios, WebSocket, Git & GitHub  
