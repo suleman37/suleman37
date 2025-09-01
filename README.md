@@ -17,10 +17,6 @@ Email: sulemanshakeel37@gmail.com
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suleman37&show_icons=true&count_private=true&cache_seconds=1800&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suleman37&layout=compact&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 ⚡ Fun Fact  
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming creative solutions, or running to stay energized and focused.  
 Feel free to reach out for collaborations, networking, or even a casual chat about **MERN Stack development**. 🚀  
