@@ -14,8 +14,7 @@ LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.
 Email: sulemanshakeel37@gmail.com  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,kafka,prometheus,grafana&theme=dark" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MalikSaddique&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## GitHub Stats
