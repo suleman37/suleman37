@@ -11,11 +11,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 
 📫 Let’s Connect  
 LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
-Email: sulemanshakeel37@gmail.com  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+Email: sulemanshakeel37@gmail.com
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suleman37&show_icons=true&count_private=true&cache_seconds=1800&theme=radical)
