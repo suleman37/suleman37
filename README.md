@@ -9,6 +9,15 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 - **Other Tools:** Axios, WebSocket, Git & GitHub ,Jest
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability  
 
+<!-- Cards -->
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=suleman37&show_icons=true&theme=tokyonight alt=suleman37 /> </p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" alt="suleman37" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman37&layout=compact&theme=tokyonight&hide=java&langs_count=10" alt="suleman37" />
+</p>
+
 📫 Let’s Connect  
 LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
 Email: sulemanshakeel37@gmail.com
