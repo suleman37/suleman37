@@ -6,7 +6,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 - **Frontend:** React.js, Redux, Next.js, TypeScript, Tailwind CSS, Material UI, Styled Components  
 - **Backend:** Node.js, Express.js, Golang, APIs Development
 - **Database:** MongoDB, Mongoose  
-- **Other Tools:** Axios, WebSocket, Git & GitHub ,Jest
+- **Other Tools:** Axios, WebSocket, Git & GitHub
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability  
 
 <!-- Cards -->
