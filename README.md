@@ -25,4 +25,5 @@ Email: sulemanshakeel37@gmail.com
 
 ⚡ Fun Fact  
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming creative solutions, or running to stay energized and focused.  
+
 Feel free to reach out for collaborations, networking, or even a casual chat about **MERN Stack development**. 🚀  
