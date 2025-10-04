@@ -11,8 +11,9 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 
 <!-- Cards -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" alt="suleman37" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" alt="suleman37" width="100%" />
 </p>
+
 
 
 📫 Let’s Connect  
