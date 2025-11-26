@@ -14,7 +14,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
     src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" 
     alt="suleman37" 
     width="100%" 
-    height="250"
+    height="180"
 />
 </p>
 
