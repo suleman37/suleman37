@@ -8,17 +8,15 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 - **Database:** MongoDB, Mongoose  
 - **Other Tools:** Axios, WebSocket, Git & GitHub
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability  
-
 <!-- Cards -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" 
-       alt="suleman37" 
-       width="100%" 
-       height="150" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" 
+    alt="suleman37" 
+    width="100%" 
+    height="250"
+/>
 </p>
-
-
-
 
 📫 Let’s Connect  
 LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
