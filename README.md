@@ -7,20 +7,11 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 - **Backend:** Node.js, Express.js, Golang, APIs Development
 - **Database:** MongoDB, Mongoose  
 - **Other Tools:** Axios, WebSocket, Git & GitHub
-- **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability  
-<!-- Cards -->
-<!-- <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" 
-    alt="suleman37" 
-    width="100%" 
-    height="180"
-/>
-</p> -->
-
-<p align="center">
+- **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability
+- 
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" />
-</p>
+</div>
 
 
 📫 Let’s Connect  
