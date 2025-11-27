@@ -10,9 +10,8 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=suleman37&theme=tokyonight" />
 </p>
-
 
 📫 Let’s Connect  
 LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
