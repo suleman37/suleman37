@@ -19,7 +19,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" alt="streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight)" alt="streak" />
 </p>
 
 
