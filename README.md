@@ -8,10 +8,10 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 - **Database:** MongoDB, Mongoose  
 - **Other Tools:** Axios, WebSocket, Git & GitHub
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability
-- 
-<div align="center">
+  
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight" />
-</div>
+</p>
 
 
 📫 Let’s Connect  
