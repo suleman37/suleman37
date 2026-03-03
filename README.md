@@ -16,9 +16,11 @@ Let’s Connect
 LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
 Email: sulemanshakeel37@gmail.com
 
-Maintained by
-[@suleman37](https://github.com/suleman37)
+Special thanks to all contributors who helped improve this project:
 
+- [@liuxuan30](https://github.com/liuxuan30)
+- [@petester42](https://github.com/petester42)
+- [@AlBirdie](https://github.com/AlBirdie)
 
 ⚡ Fun Fact  
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming creative solutions, or running to stay energized and focused.  
