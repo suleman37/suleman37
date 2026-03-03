@@ -8,19 +8,14 @@ Skills & Expertise
 - **Other Tools:** Axios, WebSocket, Git & GitHub
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability
   
-<!-- <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=suleman37&theme=tokyonight" />
-</p> -->
+</p> 
 
 Let’s Connect  
 LinkedIn: [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
 Email: sulemanshakeel37@gmail.com
 
-Special thanks to all contributors who helped improve this project:
-
-- [@liuxuan30](https://github.com/liuxuan30)
-- [@petester42](https://github.com/petester42)
-- [@AlBirdie](https://github.com/AlBirdie)
 
 ⚡ Fun Fact  
 When I'm not coding, you'll find me exploring the latest tech trends, brainstorming creative solutions, or running to stay energized and focused.  
