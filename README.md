@@ -10,7 +10,7 @@ Skills & Expertise
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=suleman37&theme=tokyonight"
-    style="width:100%; height:auto;"
+    style="width:80%; height:auto;"
   />
 </p>
 <!-- Contribution Activity -->
