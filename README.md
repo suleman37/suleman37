@@ -8,7 +8,7 @@ Skills & Expertise
 - **Other Tools:** Axios, WebSocket, Git & GitHub
 - **Full-Stack Development:** Integration of frontend and backend with a focus on clean architecture and maintainability
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suleman37&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=suleman37&theme=tokyonight"  style="width:100%;/>
 </p>  
 <!-- Contribution Activity -->
 <div align="start">
