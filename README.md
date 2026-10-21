@@ -10,8 +10,25 @@ I'm a MERN Stack Engineer passionate about building modern, scalable, and user-f
 - Other Tools: Axios, WebSocket, Git & GitHub
 - Full-Stack Development: Integration of frontend and backend with a focus on clean architecture and maintainability
 
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suleman37&theme=tokyonight" />
+  <a href="https://github.com/suleman37">
+    <img src="https://komarev.com/ghpvc/?username=suleman37&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suleman37&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleman37&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman37&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
 </p>
 
 ## Let’s Connect
