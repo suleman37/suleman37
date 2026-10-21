@@ -28,7 +28,7 @@ I'm a MERN Stack Engineer passionate about building modern, scalable, and user-f
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ## Let’s Connect
