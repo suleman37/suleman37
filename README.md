@@ -27,8 +27,10 @@ I'm a MERN Stack Engineer passionate about building modern, scalable, and user-f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman37&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
+## Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
 </p>
 
 ## Let’s Connect
