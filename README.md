@@ -17,9 +17,14 @@ Skills & Expertise
 - **Database:** MongoDB, Mongoose, MariaDB
 - **Other Tools:** Axios, WebSocket, Git & GitHub
 <!-- Contribution Activity -->
-<div align="start">
+<!-- <div align="start">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suleman37&theme=react-dark&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+</div> -->
+
+
+* [my LGTM collections](https://suleman37.github.io/LGTM/lgtm.html)
+
+![](./profile-3d-contrib/profile-green-dual.svg)
 
 ## Let’s Connect
 
